@@ -7,11 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zynpts107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zynpts107" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zeyneptas1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeyneptas1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/zeynep-taş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zeynep-taş" height="30" width="40" /></a>
 <a href="https://kaggle.com/zeyneptas72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeyneptas72" height="30" width="40" /></a>
-<a href="https://instagram.com/taszeyneppp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taszeyneppp" height="30" width="40" /></a>
 <a href="https://medium.com/@zeyneptas1301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zeyneptas1301" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zeyneptas106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeyneptas106" height="30" width="40" /></a>
 </p>

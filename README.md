@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
-<h3 align="center">A passionate mobile application developer from Turkey</h3>
+<h3 align="center">A passionate web developer.</h3>
 
-- 🌱 I’m currently learning **Kotlin,Firbase**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **zeyneptas1301@gmail.com**
 

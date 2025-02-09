@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">A passionate web developer.</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **zeyneptas1301@gmail.com**
+- 📫 How to reach me **zeyneptas1901@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

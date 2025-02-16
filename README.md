@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">A passionate web developer.</h3>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>  **
 
 - 📫 How to reach me **zeyneptas1901@gmail.com**
 
@@ -12,6 +12,7 @@
 <a href="https://kaggle.com/zeyneptas72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeyneptas72" height="30" width="40" /></a>
 <a href="https://medium.com/@zeyneptas1301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zeyneptas1301" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zeyneptas106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeyneptas106" height="30" width="40" /></a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
